@@ -38,8 +38,6 @@ All training and evaluating datasets constructed in our work are available via t
 
 [Download Datasets](https://drive.google.com/drive/folders/1g7tRFBxfsaqg_L56kfWejaGlJJGFNZjo?usp=drive_link)
 
-To access the data, you need to request permission. We will grant data access once the preprint has been submitted.
-
 ## Results
 
 ### Synthetic Personality Control Success Rate & Efficacy
